@@ -1,0 +1,97 @@
+@startmindmap
+* History of Artificial Intelligence — Chronological (specialised)
+** Ancient History
+*** Myths & Automata
+**** Greek myths: Hephaestus, Pygmalion
+**** Mechanical toys: Hero, Daedalus
+*** Medieval & Renaissance
+**** 13th century: Talking heads (Roger Bacon, Albert the Great)
+**** Ramon Llull: combinatorial machines for reasoning
+*** 16th-17th century developments
+**** 15th c.: Printing press (Gutenberg, 1456)
+**** 16th c.: Clockmakers -> mechanical animals & novelties
+**** 1580: Golem legend (Rabbi Loew of Prague)
+** Foundations of formal thought (17th–19th c.)
+*** 17th century
+**** Descartes: bodies as complex machines (Cartesian mechanism)
+**** Hobbes: combinatorial theory of thinking (Leviathan)
+**** Pascal: mechanical digital calculator (1642)
+**** Leibniz: multiplication/division machine (1673); universal calculus idea
+*** 18th century
+**** Mechanical novelties: Vaucanson's duck, von Kempelen's Turk (1769)
+*** 19th century
+**** George Boole: binary algebra ("laws of thought")
+**** Charles Babbage & Ada Byron: programmable mechanical machines
+**** 1818: Mary Shelley — Frankenstein (cultural influence)
+** Early 20th century — formal logic & cybernetics
+*** Early 1900s
+**** Russell & Whitehead: Principia Mathematica → formal logic foundations
+*** 1940s (key conceptual leaps)
+**** 1943: McCulloch & Pitts — "A Logical Calculus..." (neural net foundations)
+**** 1943: Rosenblueth, Wiener & Bigelow coin "cybernetics"
+**** 1945: Vannevar Bush — "As We May Think"
+**** 1950: A. M. Turing — "Computing Machinery and Intelligence" (Turing Test)
+**** 1950: Claude Shannon — chess as search
+**** 1950: Isaac Asimov — Three Laws of Robotics (cultural)
+** Birth of "Artificial Intelligence" & early programs (1950s)
+*** 1956: Dartmouth Conference — John McCarthy coins "Artificial Intelligence"
+*** 1956: Logic Theorist (Newell, Shaw, Simon) — first running AI program
+*** 1957: General Problem Solver (GPS) — Newell, Shaw & Simon
+*** 1952–62: Arthur Samuel — checkers program; early ML success
+*** 1958: Lisp invented (John McCarthy)
+*** Late 1950s–early 1960s: semantic nets, early NLP (Margaret Masterman)
+** 1960s — symbolic AI, early NLP, theorem provers
+*** 1961: James Slagle — SAINT symbolic integration (Lisp)
+*** 1962: First industrial robot company (Unimation)
+*** 1963: ANALOGY (Thomas Evans) — analogy solving like IQ tests
+*** 1964: Danny Bobrow — natural language algebra word-problem solving
+*** 1965: J. Alan Robinson — Resolution Method (mechanical proof procedure)
+*** 1965: Joseph Weizenbaum — ELIZA (dialogue simulation)
+*** 1966: Ross Quillian — semantic nets for NLP
+*** 1967: DENDRAL (Feigenbaum et al.) — knowledge-based scientific reasoning
+*** 1968: Shakey (SRI) — integration of locomotion, perception, problem solving
+*** Late 1960s: rise of interactive graphics (Ivan Sutherland — Sketchpad)
+** 1970s — knowledge representation, expert systems, planning
+*** 1970: SCHOLAR (Jaime Carbonell) — CAI with semantic nets
+*** Early 1970s: NLP groups & ATNs (Bill Woods)
+*** 1971: SHRDLU (Terry Winograd) — language understanding in micro-world
+*** 1972: PROLOG developed (Alain Colmerauer)
+*** 1974: MYCIN (Ted Shortliffe) — medical expert system (rule-based)
+*** 1974: ABSTRIPS (Earl Sacerdoti) — hierarchical planning
+*** Mid 1970s: Frames (Minsky) & object-oriented knowledge reps (MOLGEN)
+*** 1976: Doug Lenat — AM (discovery model)
+*** Late 1970s: SUMEX-AIM resource; growth of expert system shells
+** 1980s — commercialization, neural nets revival, architectures
+*** Early 1980s
+**** Lisp machines and expert-system commercialization
+**** 1980: Blackboard model description (Erman, Hayes-Roth, Lesser, Reddy)
+*** 1981: Danny Hillis designs Connection Machine (massive parallelism)
+*** Mid 1980s: Backpropagation popularized (neural networks revival)
+*** 1985: Aaron (Harold Cohen) — autonomous drawing program
+*** 1987: Minsky — The Society of Mind (agent-based mind theory)
+*** Late 1980s: SOAR (Laird & Rosenbloom) and architectures for cognitive systems
+** 1990s — statistical learning, reinforcement learning, autonomous systems
+*** Early 1990s: TD-Gammon (G. Tesauro) — reinforcement learning success
+*** 1997: Deep Blue defeats Garry Kasparov (chess milestone)
+*** 1990s late: Web crawlers, AI-based info extraction; Intelligent Rooms & emotional agents
+*** Robotics: Rod Brooks' COG project; ALVINN (Pomerleau) -> autonomous driving progress
+** 2000s — embodied agents, social robots, exploration
+*** 2000: Cynthia Breazeal — Kismet, sociable robots (Sociable Machines)
+*** 2000: Nomad robot explores Antarctica (autonomous field robotics)
+*** 2000s: Interactive robot pets, smart toys enter commercial market
+** Selected system / concept timeline (specialised quick list)
+*** 1943: McCulloch & Pitts — neural model
+*** 1950: Turing Test
+*** 1956: Dartmouth Conference (term "AI")
+*** 1956: Logic Theorist
+*** 1958: Lisp
+*** 1965: ELIZA
+*** 1974: MYCIN
+*** 1980s: Expert systems commercialization
+*** 1997: Deep Blue
+*** 2000s: Sociable robots (Kismet), field robots (Nomad)
+** Today & Recent themes (as referenced in the lecture)
+*** Broad advances: ML, NLP, vision, planning, multi-agent systems
+*** AI in web & data mining, virtual reality, games, tutoring systems
+*** Research directions: uncertainty reasoning, neural networks, reinforcement learning
+@endmindmap
