@@ -1,6 +1,6 @@
 MyMindMapper — concise, for visual learners
 
-MyMindMapper converts PlantUML mindmap text into editable mind maps and exports them to common formats (PDF, SVG). It's lightweight and intended for visual learners who want to turn lecture notes, outlines, or slides into quick mind maps.
+MyMindMapper Is a simple pyhthon/Java tool I worked that aids in visual learning by turning  plantuml text from lecture notes into there respectful mind map
 
 Why this helps visual learners
 
